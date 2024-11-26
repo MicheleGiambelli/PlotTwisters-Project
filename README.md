@@ -18,7 +18,7 @@ This dataset provides a rich source of natural language data with diverse lingui
 ## File Structure and Execution Order
 To help you navigate the repository, here is the recommended order in which to execute the files, along with a description of each file:
 
-### 1. DEA.ipynb
+### 1. DEA
 - *Description*: This notebook performs Data Exploratory Analysis (DEA) on the dataset. It includes:
    - Text preprocessing steps such as tokenization and stopword removal.
    - Visualizations of word frequencies, word clouds, and sentiment distributions.
@@ -27,7 +27,7 @@ To help you navigate the repository, here is the recommended order in which to e
 - *Why it's important*: DEA helps in understanding the data's quality and structure, enabling informed decisions for model development.
 
 
-### 2. Algorithm2.ipynb (currently in the MICHELE branch but will be moved)
+### 2. Neural Network Approach
 - *Description*: This notebook implements a neural network-based approach for Named Entity Recognition (NER). Specifically, it develops and evaluates four different models:
     1. LSTM (Long Short-Term Memory): A sequential model capable of capturing long-term dependencies in text data.
     2. BiLSTM (Bidirectional LSTM): An extension of LSTM that processes input sequences in both forward and backward directions for improved context understanding.
@@ -37,7 +37,7 @@ To help you navigate the repository, here is the recommended order in which to e
 - *Why it's important*: This step provides a diverse range of approaches for solving the NER task, enabling comparisons between traditional probabilistic methods and advanced neural architectures.
 
 
-### 3. Transformer_funzionante.ipynb
+### 3. Transformer
 - *Description*: This notebook is dedicated to the fine-tuning and evaluation of a transformer model for the Named Entity Recognition (NER) task. It involves:
     - Loading a pre-trained DistilBERT model.
     - Fine-tuning the model on the dataset to recognize named entities such as people, places, and organizations.
@@ -46,7 +46,7 @@ To help you navigate the repository, here is the recommended order in which to e
 - *Why it's important*: The transformer model is the heart of the pipeline, providing the primary analytical output for the dashboard and reporting.
 
   
-### 4. Dashboard (To be added)
+### 4. Dashboard
 - *Description*: The dashboard is an interactive web application designed to visualize and explore the results of our analysis. It includes:
     - Graphs and charts summarizing NER performance and data insights.
     - A searchable interface to explore the dataset and model outputs.
