@@ -53,7 +53,7 @@ To help you navigate the repository, here is the recommended order in which to e
     - Real-time visualizations of token-level NER predictions and other key metrics.
 - *Purpose*: To present the findings of the project in an accessible and visually appealing format for stakeholders and end-users.
 - *Why it's important*: The dashboard bridges the gap between technical analysis and stakeholder comprehension, enabling actionable insights from the NER task.
-- *Usage Instructions*: To use the dashboard, it is necessary to download the following files:
+- *Usage Instructions*: To use the dashboard, it is necessary to download the following files and put all them in the same folder:
     1. Transformer Models: Download the transformer models fine-tuned in step 3 from this Hugging Face link: https://huggingface.co/Emma-Cap/Transformer . These files are critical for running the NER predictions within the dashboard.
     2. Dashboard Files: Download the files located in the dashboard folder (from step 2), as they contain preprocessed data and other resources needed for visualization.
 Ensure that all required files are placed in the appropriate directories before running the dashboard application.
