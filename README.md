@@ -25,6 +25,7 @@ To help you navigate the repository, here is the recommended order in which to e
    - Insights into the structure and characteristics of the dataset.
 - *Purpose*: Provides an initial understanding of the dataset and highlights key areas of interest for further analysis.
 - *Why it's important*: DEA helps in understanding the data's quality and structure, enabling informed decisions for model development.
+- *Usage Instructions*: to execute the WordCloud contained in DEA you need to download the file called "plottwisters_mask" present in this repository. 
 
 
 ### 2. Neural Network Approach
@@ -68,8 +69,8 @@ We are more than happy to assist you and ensure everything runs smoothly. Feel f
 We would like to express our sincere gratitude to *Professor Andrea Belli* for his invaluable guidance throughout the project and for providing us with the dataset, which served as the foundation of our work. His support and insights were crucial in shaping the direction and success of this project.
 
 Additionally, we acknowledge the efforts and collaboration of our team members:
-- Michele
-- Emma
-- Alberto
+- Michele Giambelli
+- Emma Capellini
+- Alberto Galdino Nogara
 
 This project would not have been possible without the dedication and teamwork of everyone involved.
