@@ -58,7 +58,7 @@ To help you navigate the repository, here is the recommended order in which to e
     1. Transformer Models: Download the transformer models fine-tuned in step 3 from this Hugging Face link (-->Files and versions): [Download Transformers](https://huggingface.co/Emma-Cap/Transformer) . These files are critical for running the NER predictions within the dashboard.
     2. Dashboard Files: Download the files located in the dashboard folder (from step 2), as they contain preprocessed data and other resources needed for visualization.
 Ensure that all required files are placed in the appropriate directories before running the dashboard application.
-   3. dashboard_plotwisters.py: run this python script for generate the dashboard at this link: [Dashboard](http://127.0.0.1:8050/)
+   3. **dashboard_plotwisters.py**: run this python script for generate the dashboard at this link: [Dashboard](http://127.0.0.1:8050/)
 
 
 # Need Help?
