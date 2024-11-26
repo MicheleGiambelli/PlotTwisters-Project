@@ -57,16 +57,16 @@ To help you navigate the repository, here is the recommended order in which to e
 - *Usage Instructions*: To use the dashboard, it is necessary to download the following files and put all them in the same folder:
     1. Transformer Models: Download the transformer models fine-tuned in step 3 from this Hugging Face link (-->Files and versions): [Download Transformers](https://huggingface.co/Emma-Cap/Transformer) . These files are critical for running the NER predictions within the dashboard.
     2. Dashboard Files: Download the files located in the dashboard folder (from step 2), as they contain preprocessed data and other resources needed for visualization.
-   - file csv:
-        - combined_dataset.csv
-        - train_df.csv
-        - val_df.csv
-        - test_df.csv
-   - plotwisters.py: that includes the plotisters_model
-   - GRU model: GRU-best-model.keras
-   - id2tag_bert.pkl
-   - id2tag.pkl
-   - word2idx.pkl
+      - file csv:
+           - combined_dataset.csv
+           - train_df.csv
+           - val_df.csv
+           - test_df.csv
+      - plotwisters.py: that includes the plotisters_model
+      - GRU model: GRU-best-model.keras
+      - id2tag_bert.pkl
+      - id2tag.pkl
+      - word2idx.pkl
    4. **dashboard_plotwisters.py**: run this python script for generate the dashboard at this link: [Dashboard](http://127.0.0.1:8050/). Ensure that all required files are placed in the appropriate directories before running the dashboard application.
 
 
