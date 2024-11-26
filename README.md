@@ -16,7 +16,7 @@ This dataset provides a rich source of natural language data with diverse lingui
 
 
 ## File Structure and Execution Order
-To help you navigate the repository, here is the recommended order in which to execute the files, along with a description of each file:
+To help you navigate the repository, here is the recommended order in which to execute the files, along with a description of each file. To reproduce the results, you need to download the files organized as they are in the repository and add to the Dashboard folder the files available at the Hugging Face link provided below.
 
 ### 1. DEA
 - *Description*: This notebook performs Data Exploratory Analysis (DEA) on the dataset. It includes:
