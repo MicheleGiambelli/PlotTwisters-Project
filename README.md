@@ -67,7 +67,7 @@ To help you navigate the repository, here is the recommended order in which to e
       - id2tag_bert.pkl
       - id2tag.pkl
       - word2idx.pkl
-   4. **dashboard_plotwisters.py**: run this python script for generate the dashboard at this link: [Dashboard](http://127.0.0.1:8050/). Ensure that all required files are placed in the appropriate directories before running the dashboard application.
+   4. **dashboard_plotwisters.py**: set the directory of the folder and run this python script for generate the dashboard at this link: [Dashboard](http://127.0.0.1:8050/). Ensure that all required files are placed in the appropriate directories before running the dashboard application.
 
 
 # Need Help?
